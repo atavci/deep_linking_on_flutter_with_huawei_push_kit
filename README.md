@@ -2,7 +2,7 @@
 
 A tutorial project for deep linking with Huawei Push Kit's Custom Intents and uni_links package.
 
-Please refer to the medium article for the tutorial.
+Please refer to the **[medium article](https://medium.com/huawei-developers/deep-linking-on-flutter-using-huawei-push-kits-custom-intents-958fedb7490a)** for the tutorial.
 
 ## Notes Before Building
 
